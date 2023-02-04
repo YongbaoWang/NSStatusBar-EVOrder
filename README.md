@@ -9,6 +9,11 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+## Usage
+
+        NSStatusItem *item = [NSStatusBar.systemStatusBar statusItemWithLength:NSSquareStatusItemLength priority:NSStatusBarItemPrioritySystem];
+    // do other things
+
 ## Requirements
 
 ## Installation
@@ -22,7 +27,7 @@ pod 'NSStatusBar-EVOrder'
 
 ## Author
 
-YongBaowang, wangyongbao@itiger.com
+YongBaowang, wangyongbao2009@hotmail.com
 
 ## License
 

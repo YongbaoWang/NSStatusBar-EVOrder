@@ -1,0 +1,16 @@
+PODS:
+  - NSStatusBar-EVOrder (0.1.0)
+
+DEPENDENCIES:
+  - NSStatusBar-EVOrder (from `../`)
+
+EXTERNAL SOURCES:
+  NSStatusBar-EVOrder:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NSStatusBar-EVOrder: 63b84bff9bde81061f9eb703dffb66e9c42d6872
+
+PODFILE CHECKSUM: 09c1d8683e49ec0a8fadc5ddabc034461ebc1a2d
+
+COCOAPODS: 1.11.3

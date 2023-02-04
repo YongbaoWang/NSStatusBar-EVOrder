@@ -1,0 +1,22 @@
+{
+  "name": "NSStatusBar-EVOrder",
+  "version": "0.1.0",
+  "summary": "A short description of NSStatusBar-EVOrder.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/YongBaowang/NSStatusBar-EVOrder",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "YongBaowang": "wangyongbao@itiger.com"
+  },
+  "source": {
+    "git": "https://github.com/YongBaowang/NSStatusBar-EVOrder.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "osx": "10.10"
+  },
+  "source_files": "NSStatusBar-EVOrder/Classes/**/*"
+}

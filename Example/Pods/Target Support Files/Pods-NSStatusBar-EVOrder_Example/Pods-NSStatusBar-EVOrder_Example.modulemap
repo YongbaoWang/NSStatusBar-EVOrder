@@ -1,0 +1,6 @@
+framework module Pods_NSStatusBar_EVOrder_Example {
+  umbrella header "Pods-NSStatusBar-EVOrder_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
