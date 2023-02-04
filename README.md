@@ -34,7 +34,7 @@ YongBaowang, wangyongbao2009@hotmail.com
 
 If this helps you, you can encourage me ~
 
-![(WeChatPay)](https://github.com/YongbaoWang/NSStatusBar-EVOrder/blob/main/Donate/wechatpay.jpeg =400*500)
+![(WeChatPay)](https://github.com/YongbaoWang/NSStatusBar-EVOrder/blob/main/Donate/wechatpay.jpeg){:height="400px" width="500px"}
 ![(AliPay)](https://github.com/YongbaoWang/NSStatusBar-EVOrder/blob/main/Donate/alipay.jpeg)
 
 ## License
