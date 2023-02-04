@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NSStatusBar-EVOrder_Example' do
+  pod 'NSStatusBar-EVOrder', :path => '../'
+
+  target 'NSStatusBar-EVOrder_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
