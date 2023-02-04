@@ -35,8 +35,7 @@ YongBaowang, wangyongbao2009@hotmail.com
 If this helps you, you can encourage me ~
 
  <img src="https://github.com/YongbaoWang/NSStatusBar-EVOrder/blob/main/Donate/wechatpay.jpeg" width = "400" height = "500" alt="WeChatPay" align=center />
-![(WeChatPay)](https://github.com/YongbaoWang/NSStatusBar-EVOrder/blob/main/Donate/wechatpay.jpeg){:height="400px" width="500px"}
-![(AliPay)](https://github.com/YongbaoWang/NSStatusBar-EVOrder/blob/main/Donate/alipay.jpeg)
+ <img src="https://github.com/YongbaoWang/NSStatusBar-EVOrder/blob/main/Donate/alipay.jpeg" width = "400" height = "500" alt="AliPay" align=center />
 
 ## License
 
