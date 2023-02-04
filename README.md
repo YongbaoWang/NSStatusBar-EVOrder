@@ -11,8 +11,9 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Usage
 
-        NSStatusItem *item = [NSStatusBar.systemStatusBar statusItemWithLength:NSSquareStatusItemLength priority:NSStatusBarItemPrioritySystem];
-    // do other things
+        NSStatusItem *item = [NSStatusBar.systemStatusBar statusItemWithLength:NSSquareStatusItemLength 
+                                                                      priority:NSStatusBarItemPrioritySystem];
+        // do other things
 
 ## Requirements
 
@@ -28,6 +29,13 @@ pod 'NSStatusBar-EVOrder'
 ## Author
 
 YongBaowang, wangyongbao2009@hotmail.com
+
+## Donate
+
+If this helps you, you can encourage me ~
+
+![(WeChatPay)](https://github.com/YongbaoWang/NSStatusBar-EVOrder/blob/main/Donate/wechatpay.jpeg)
+![(AliPay)](https://github.com/YongbaoWang/NSStatusBar-EVOrder/blob/main/Donate/alipay.jpeg)
 
 ## License
 
