@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/NSStatusBar-EVOrder.svg?style=flat)](https://cocoapods.org/pods/NSStatusBar-EVOrder)
 [![Platform](https://img.shields.io/cocoapods/p/NSStatusBar-EVOrder.svg?style=flat)](https://cocoapods.org/pods/NSStatusBar-EVOrder)
 
+A very tiny library that allows define position and order for `NSStatusBarItem` inside `NSStatusBar`.
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
